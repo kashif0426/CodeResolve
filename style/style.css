@@ -224,7 +224,7 @@
     padding: 0px;
   }
   
-  .htmlimg, .cssimg, .jsimg, .pythonimg{
+  .htmlimg, .cssimg, .jsimg, .pythonimg, .suscribe{
     width: 50%;
   }
 
@@ -556,6 +556,7 @@
   .hamburger-menu:has(input:checked) + .sidebar {
     translate: 0;
   }
+
 
   
 
